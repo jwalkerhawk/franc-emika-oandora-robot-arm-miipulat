@@ -1,0 +1,4 @@
+/mnt/c/Users/yasee/Downloads/Assignment 3-starter-files-hoqueya1/csc376-assignment3/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/yasee/Downloads/Assignment 3-starter-files-hoqueya1/csc376-assignment3/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/yasee/Downloads/Assignment 3-starter-files-hoqueya1/csc376-assignment3/build/CMakeFiles/csc376-assigment.dir
+/mnt/c/Users/yasee/Downloads/Assignment 3-starter-files-hoqueya1/csc376-assignment3/build/CMakeFiles/panda_control_plugin.dir
